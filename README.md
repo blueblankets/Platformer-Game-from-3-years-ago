@@ -1,6 +1,4 @@
 # Platformer-Game-from-3-years-ago
-its not that great
-
 
 INSTRUCTIONS:
 1. open the game
